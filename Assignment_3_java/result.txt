@@ -1,0 +1,4 @@
+Number of Years: 6
+Population of Town A: 2984
+Population of Town B: 2655
+Population of Town C: 2886
